@@ -65,14 +65,14 @@ Here are some ideas to get you started:
 </div>
 <br>
 
-✍️ Hello Everyone! I'm Sun Duo, a **junior undergraduate**, majoring in ***Computer Science***, attending college at **Harbin Institiude of Technology, Shenzhen**.
+✍️ Hello Everyone! I'm Sun Duo, a **senior undergraduate**, majoring in ***Computer Science***, attending college at **Harbin Institiude of Technology, Shenzhen**.
 
 ✍️ 大家伙好呀！俺叫孙铎，是一名**大四混混**，就读于**深圳平山村男子职业技术学校**，专业是***修电脑***
 
 ---
 
 <!-- 语言技术标签 -->
-💪 Learning: 
+💪 Learning: (not updated)
 <div align="center">
   <img alt="Spring" src="https://img.shields.io/badge/-Spring-DAE8FC?style=plastic&logo=Spring">
   <img alt="Vue" src="https://img.shields.io/badge/-Vue-DAE8FC?style=plastic&logo=Vue.js">
@@ -85,7 +85,7 @@ Here are some ideas to get you started:
   <br>
 </div>
 
-🧰 Commonly Used Tools:
+🧰 Commonly Used Tools: (not updated)
 <div align="center">
   <img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white">
   <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=style=flat-square&logo=linux&logoColor=black">
